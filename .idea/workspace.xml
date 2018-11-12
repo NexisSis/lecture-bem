@@ -2,36 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a3a709-47d0-4d05-b5c0-8ddb17f5d069" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/card/card-last-m.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/card/card-last-s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/card/card-last-xl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/card/player/player-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/card/richdata.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/card/player/player-prev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/common/common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Header/Header.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Header/Header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Header/Nav/Nav.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Header/Nav/Nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/footer/footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/main/card/card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/main/card/player/player.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/main/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/mobile/main/card/card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/mobile/main/card/player/player.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/mobile/main/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fonts/icomoon.ttf" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/blocks/desktop/common/common.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/blocks/mobile/common/common.scss" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/richdata.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/App.jsx" afterPath="$PROJECT_DIR$/src/blocks/App.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/blocks/common/button/Button.scss" afterPath="$PROJECT_DIR$/src/blocks/common/Button/Button.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/blocks/common/button/button.jsx" afterPath="$PROJECT_DIR$/src/blocks/common/Button/Button.jsx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/card-last-m.png" afterPath="$PROJECT_DIR$/old/blocks/main/Card/card-last-m.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/card-last-s.png" afterPath="$PROJECT_DIR$/old/blocks/main/Card/card-last-s.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/card-last-xl.png" afterPath="$PROJECT_DIR$/old/blocks/main/Card/card-last-xl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/card.scss" afterPath="$PROJECT_DIR$/old/blocks/main/Card/Card.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/player/player-img.png" afterPath="$PROJECT_DIR$/old/blocks/main/Card/player/player-img.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/player/player-prev.svg" afterPath="$PROJECT_DIR$/old/blocks/main/Card/player/player-prev.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/player/player.scss" afterPath="$PROJECT_DIR$/old/blocks/main/Card/player/player.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/player/player.ts" afterPath="$PROJECT_DIR$/old/blocks/main/Card/player/player.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/old/blocks/main/card/richdata.png" afterPath="$PROJECT_DIR$/old/blocks/main/Card/richdata.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/blocks/desktop/main/card/card.scss" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/blocks/desktop/main/card/player/player.scss" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/blocks/desktop/main/main.scss" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Main.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,11 +33,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/blocks/App.jsx">
+      <file leaf-file-name="Card.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="182">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="49" column="77" lean-forward="true" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -57,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.jsx">
+      <file leaf-file-name="Card.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -69,14 +77,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Button.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/common/Button/Button.jsx">
+      <file leaf-file-name="Player.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_common.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old/blocks/_common/_common.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="95" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,8 +100,8 @@
       <file leaf-file-name="Header.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Header.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -93,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/common/common.scss">
+      <file leaf-file-name="Header.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="86" column="16" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -106,20 +122,18 @@
       <file leaf-file-name="Nav.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Nav/Nav.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="68">
               <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Nav/Nav.scss">
+      <file leaf-file-name="Card.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/old/blocks/main/Card/Card.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="1054">
+              <caret line="62" column="10" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -140,6 +154,10 @@
       <find>loaders</find>
       <find>sass</find>
       <find>header</find>
+      <find>main_</find>
+      <find>descr</find>
+      <find>Text</find>
+      <find>Main</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Work\Learn\shri\lecture-bem</dir>
@@ -187,7 +205,12 @@
         <option value="$PROJECT_DIR$/src/blocks/common/common.scss" />
         <option value="$PROJECT_DIR$/src/blocks/mobile/Header/Nav/Nav.jsx" />
         <option value="$PROJECT_DIR$/src/blocks/mobile/Header/Header.jsx" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/blocks/App.jsx" />
+        <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Main.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx" />
+        <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx" />
       </list>
     </option>
   </component>
@@ -203,8 +226,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="649" />
-    <option name="y" value="-8" />
+    <option name="x" value="543" />
+    <option name="y" value="111" />
     <option name="width" value="964" />
     <option name="height" value="1080" />
   </component>
@@ -226,12 +249,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
               <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="old" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
@@ -283,8 +312,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
               <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-              <item name="Nav" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="Card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="Card" type="462c0819:PsiDirectoryNode" />
+              <item name="Player" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
@@ -297,7 +344,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -310,17 +356,17 @@
     <property name="node.js.selected.package.eslint" value="D:\Work\Learn\shri\lecture-bem\node_modules\eslint" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\mobile\Header\Nav" />
-      <recent name="D:\Work\Learn\shri\lecture-bem\src" />
-      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\common" />
-      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\mobile" />
-      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\desktop\main\card" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Work\Learn\shri\lecture-bem\public\img" />
       <recent name="D:\Work\Learn\shri\lecture-bem\second-try" />
       <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Learn\shri\lecture-bem\public\img" />
+      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\mobile\Header\Nav" />
+      <recent name="D:\Work\Learn\shri\lecture-bem\src" />
+      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\common" />
+      <recent name="D:\Work\Learn\shri\lecture-bem\src\blocks\mobile" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -348,24 +394,25 @@
       <workItem from="1541853582778" duration="8922000" />
       <workItem from="1541862878688" duration="1116000" />
       <workItem from="1541957378768" duration="5237000" />
-      <workItem from="1541967002261" duration="1726000" />
+      <workItem from="1541967002261" duration="2512000" />
+      <workItem from="1542045930965" duration="6316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17001000" />
+    <option name="totallyTimeSpent" value="24103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12111638" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.5018431" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.49815693" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -389,29 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/webpack.config.prod.js" />
-    <entry file="file://$PROJECT_DIR$/config/env.js" />
-    <entry file="file://$PROJECT_DIR$/config/jest/cssTransform.js" />
-    <entry file="file://$PROJECT_DIR$/config/jest/fileTransform.js" />
-    <entry file="file://$PROJECT_DIR$/config/paths.js" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/serviceWorker.tsx" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main.scss" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/old/src/blocks/_common/_common.scss" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/common/Button/Button.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -438,7 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,44 +470,9 @@
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/player/player.ts" />
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/player/player-img.png" />
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/player/player-prev.svg" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/card.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="106" column="12" lean-forward="true" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/card/player/player.ts" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/card/card.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/common/card/player/player.scss" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/card/player/player.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/player/player.scss">
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
@@ -495,14 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,37 +525,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/mobile/common/common.scss" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Nav/Nav.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="68">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/common/Button/Button.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/Header/Header.scss">
+    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/Header/Header.scss" />
+    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/Header/Nav/Nav.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/Header/Header.jsx" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -583,36 +556,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Header.jsx">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/Header/Nav/Nav.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/Header/Header.jsx">
+    <entry file="file://$PROJECT_DIR$/old/blocks/main/Card/Card.jsx" />
+    <entry file="file://$PROJECT_DIR$/old/blocks/header/header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/card/player/player.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/card/card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/blocks/main/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/blocks/_common/_common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="95" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Header/Nav/Nav.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old/blocks/main/Card/Card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="10" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="49" column="77" lean-forward="true" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
