@@ -1,18 +1,18 @@
-.player{
-  &__wrapper{
+.Player{
+  &-Wrapper{
     width: 100%;
   }
-  &__song-line{
+  &-SongLine{
     cursor: pointer;
     height: 1px;
     width: 88%;
     background-color: #979797;
   }
-  &__value{
+  &-Value{
     font-size: 14px;
     color:#A1A1A1;
   }
-  &__song-moment{
+  &-SongMoment{
     position: absolute;
     height: 20px;
     width: 12px;
@@ -22,14 +22,14 @@
     cursor: pointer;
   }
   .icon-music-prev{
-    background-image: url('../img/player-prev.svg');
+    background-image: url('player-prev.svg');
     height: 53px;
     width: 53px;
     cursor:pointer;
     background-repeat: no-repeat;
   }
   .icon-music-next{
-    background-image: url('../img/player-prev.svg');
+    background-image: url('player-prev.svg');
     height: 53px;
     width: 53px;
     margin-left:30px;
@@ -37,7 +37,7 @@
     cursor:pointer;
     background-repeat: no-repeat;
   }
-  &__volume-moment{
+  &-VolumeMoment{
     background: #605757;
     border-radius: 26px;
     height: 16px;
@@ -46,7 +46,7 @@
     margin-left: 67%;
     cursor: pointer;
   }
-  &__volume-line{
+  &-VolumeLine{
     height: 4px;
     width: 56%;
     background-color: rgba(216,216,216,0.30);
