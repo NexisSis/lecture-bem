@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a3a709-47d0-4d05-b5c0-8ddb17f5d069" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/_common/_common.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/_common/fonts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/footer/footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/header/header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/header/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/header/nav/nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/index/index.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/Card.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/card-last-m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/card-last-s.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/card-last-xl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/player/player-img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/player/player-prev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/player/player.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/player/player.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/Card/richdata.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/old/blocks/main/main.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/Header/Header.scss" afterPath="$PROJECT_DIR$/src/blocks/Header/Header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/Header/Nav/Nav.jsx" afterPath="$PROJECT_DIR$/src/blocks/Header/Nav/Nav.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/Header/Nav/Nav.scss" afterPath="$PROJECT_DIR$/src/blocks/Header/Nav/Nav.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/Main/Card/Card.scss" afterPath="$PROJECT_DIR$/src/blocks/Main/Card/Card.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/Main/Card/Player/Player.scss" afterPath="$PROJECT_DIR$/src/blocks/Main/Card/Player/Player.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/Main/Main.scss" afterPath="$PROJECT_DIR$/src/blocks/Main/Main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/common/common.scss" afterPath="$PROJECT_DIR$/src/blocks/common/common.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/App.jsx">
+      <file leaf-file-name="Main.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Main/Main.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="412">
+              <caret line="107" column="10" lean-forward="true" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -45,20 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/Main/Main.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Card.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Card.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="-115">
               <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -67,31 +46,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Footer.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/Footer/Footer.scss">
+      <file leaf-file-name="Header.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Header/Header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Nav.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Header/Nav/Nav.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blocks/common/common.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="319">
+              <caret line="312" column="35" lean-forward="true" selection-start-line="312" selection-start-column="35" selection-end-line="312" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Footer.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/Footer/Footer.jsx">
+      <file leaf-file-name="Main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Main/Main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state relative-caret-position="238">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Card.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Card.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="140" column="17" lean-forward="false" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nav.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Header/Nav/Nav.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -99,33 +108,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Player.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Player/Player.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blocks/Header/Header.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -167,10 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/blocks/common/button/button.js" />
-        <option value="$PROJECT_DIR$/src/blocks/App.js" />
         <option value="$PROJECT_DIR$/src/blocks/common/button/button.tsx" />
         <option value="$PROJECT_DIR$/src/blocks/App.tsx" />
         <option value="$PROJECT_DIR$/src/index.tsx" />
@@ -200,7 +193,6 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/blocks/desktop/header/Nav/Nav.scss" />
         <option value="$PROJECT_DIR$/src/blocks/desktop/common/common.scss" />
-        <option value="$PROJECT_DIR$/src/blocks/common/common.scss" />
         <option value="$PROJECT_DIR$/src/blocks/mobile/Header/Nav/Nav.jsx" />
         <option value="$PROJECT_DIR$/src/blocks/mobile/Header/Header.jsx" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -215,6 +207,14 @@
         <option value="$PROJECT_DIR$/src/blocks/App.jsx" />
         <option value="$PROJECT_DIR$/src/blocks/Footer/Footer.scss" />
         <option value="$PROJECT_DIR$/src/blocks/Footer/Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/blocks/Main/Main.jsx" />
+        <option value="$PROJECT_DIR$/src/blocks/Header/Header.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/Main/Main.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/Main/Card/Player/Player.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/Main/Card/Card.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/Header/Nav/Nav.jsx" />
+        <option value="$PROJECT_DIR$/src/blocks/Header/Nav/Nav.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/common/common.scss" />
       </list>
     </option>
   </component>
@@ -259,6 +259,63 @@
             <path>
               <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
               <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+              <item name="Nav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="Card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="Card" type="462c0819:PsiDirectoryNode" />
+              <item name="Player" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,12 +373,12 @@
       <workItem from="1541957378768" duration="5237000" />
       <workItem from="1541967002261" duration="2512000" />
       <workItem from="1542045930965" duration="6636000" />
-      <workItem from="1542095967260" duration="11560000" />
+      <workItem from="1542095967260" duration="12109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35983000" />
+    <option name="totallyTimeSpent" value="36532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,6 +391,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12111638" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.49815693" order="9" side_tool="false" content_ui="tabs" />
@@ -343,7 +401,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.49394417" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917964" sideWeight="0.49394417" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -366,24 +424,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/second-try/src/blocks/common/button/button.jsx" />
-    <entry file="file://$PROJECT_DIR$/old/blocks/flux/MyStore.ts" />
-    <entry file="file://$PROJECT_DIR$/old/blocks/_common/fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-871">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/footer/footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/mobile/header.css" />
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/richdata.png" />
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/player/player.ts" />
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/main/card/player/player-img.png" />
     <entry file="file://$PROJECT_DIR$/src/blocks/mobile/main/card/player/player.ts" />
@@ -614,14 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Main.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -632,28 +664,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Card.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/Footer/Footer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/common/common.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -672,6 +686,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="107" column="10" lean-forward="true" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Card.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Header/Header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Player/Player.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Main/Card/Card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="140" column="17" lean-forward="false" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Header/Nav/Nav.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/Header/Nav/Nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/common/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="312" column="35" lean-forward="true" selection-start-line="312" selection-start-column="35" selection-end-line="312" selection-end-column="35" />
           <folding />
         </state>
       </provider>

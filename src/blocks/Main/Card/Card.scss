@@ -108,3 +108,44 @@
     }
   }
 }
+
+
+@media(max-width: 450px){
+  .Card{
+    padding:16px;
+    &-Title{
+      font-size: 14px;
+    }
+    &_m-t{
+      margin-top:0px;
+    }
+    &-Icon{
+      font-size: 16px;
+    }
+    &-Icon-2{
+      font-size: 29px;
+    }
+    &-Icon-3{
+      font-size: 19px;
+    }
+    &-Icon-4{
+      font-size: 24px;
+    }
+    &-Text{
+      font-size: 12px;
+    }
+    &-Description{
+      font-size: 18px;
+      padding-right: 0;
+    }
+    &-Description-2{
+      font-size: 19px;
+    }
+    &-Image{
+      height: 133px;
+    }
+    &-Image-2{
+      height: 247px;
+    }
+  }
+}

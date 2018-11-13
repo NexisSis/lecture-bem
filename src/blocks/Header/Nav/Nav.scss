@@ -35,3 +35,19 @@
     }
   }
 }
+@media(max-width: 850px){
+  .Nav{
+    display: none!important;
+    &-Mobile{
+      display: block;
+      div{
+        height: 2px;
+        width: 17px;
+        background-color: #333;
+        border-radius: 23px;
+        margin-bottom: 3px;
+      }
+    }
+  }
+
+}

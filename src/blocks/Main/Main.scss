@@ -10,3 +10,13 @@
       margin-right: auto;
   }
 }
+
+@media(max-width: 450px){
+  .Main{
+    h1{
+      font-size: 24px;
+      margin-top:15px;
+      margin-bottom: 0px;
+    }
+  }
+}
