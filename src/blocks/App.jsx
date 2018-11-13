@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './Header/Header';
 import Main from './Main/Main';
+import Footer from './Footer/Footer';
 import './common/common.scss';
 import { cn } from '@bem-react/classname';
 
@@ -12,6 +13,7 @@ class App extends React.Component {
       <div className={cnApp()}>
         <Header/>
         <Main/>
+        <Footer/>
       </div>
     );
   }

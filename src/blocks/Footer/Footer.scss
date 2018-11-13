@@ -1,23 +1,23 @@
-.footer{
+.Footer{
   margin-top:18px;
   margin-bottom: 18px;
-  &__text{
+  &-Text{
     color: #858585;
     font-size: 12px;
     letter-spacing: 0.01px;
   }
-  &__item{
+  &-Item{
     margin-left: 13px;
   }
-  &__nav{
+  &-Nav{
 
   }
-  &__powered{
+  &-Powered{
 
   }
 }
 @media(max-width: 800px){
-  .footer{
+  .Footer{
     display: none!important;
   }
 }
