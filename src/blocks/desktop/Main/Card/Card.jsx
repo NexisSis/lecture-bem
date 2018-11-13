@@ -34,7 +34,7 @@ class Card extends React.Component {
             <div className={ cnCard() + " " + cardCss}>
                 <div className="icon-close"></div>
                 <div className={"flex" + ' ' + indent}>
-                    <div className={cnCard("Icon") + " " + this.props.iconName + " " + colorCss}></div>
+                    <div className={cnCard("Icon-2") + " " + this.props.iconName + " " + colorCss}></div>
                     <div className={cnCard("Title") + " " + colorCss}>{this.props.title}</div>
                 </div>
                 <div className={flexCardCss + ' ' + paddingCss}>

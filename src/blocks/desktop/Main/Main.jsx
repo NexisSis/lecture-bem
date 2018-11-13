@@ -13,7 +13,7 @@ class Header extends React.Component {
                     <h1 className="grid-c-12">Лента событий</h1>
                     <Card
                         size="big"
-                        iconName="icon-everyday"
+                        iconName="icon-odoor"
                         imageName="richdata.png"
                         title="Еженедельный отчет по расходам ресурсов"
                         description="Так держать! За последнюю неделю вы потратили на 10% меньше ресурсов, чем неделей ранее"
@@ -22,28 +22,28 @@ class Header extends React.Component {
                     />
                     <Card
                         size="small"
-                        iconName="icon-everyday"
+                        iconName="icon-odoor"
                         title="Дверь открыта"
                         sensorName="Сенсор входной двери"
                         time="19:00, Сегодня"
                     />
                     <Card
                         size="small"
-                        iconName="icon-everyday"
+                        iconName="icon-router"
                         title="Уборка закончена"
                         sensorName="Пылесос"
                         time="18:45, Сегодня"
                     />
                     <Card
                         size="small"
-                        iconName="icon-everyday"
+                        iconName="icon-router"
                         title="Новый пользователь"
                         sensorName="Роутер"
                         time="19:00, Сегодня"
                     />
                     <Card
                         size="middle"
-                        iconName="icon-everyday"
+                        iconName="icon-climate"
                         title="Изменен климатический режим"
                         sensorName="Сенсор микроклимата"
                         time="18:30, Сегодня"
@@ -53,7 +53,7 @@ class Header extends React.Component {
                     />
                     <Card
                         size="middle"
-                        iconName="icon-everyday"
+                        iconName="icon-condition"
                         title="Невозможно включить кондиционер"
                         sensorName="Кондиционер"
                         time="18:21, Сегодня"
@@ -62,7 +62,7 @@ class Header extends React.Component {
                     />
                     <Card
                         size="middle"
-                        iconName="icon-everyday"
+                        iconName="icon-music"
                         title="Музыка включена"
                         sensorName="Яндекс.Станция"
                         time="18:16, Сегодня"
@@ -71,7 +71,7 @@ class Header extends React.Component {
                     />
                     <Card
                         size="middle"
-                        iconName="icon-everyday"
+                        iconName="icon-fridge"
                         title="Заканчивается молоко"
                         sensorName="Холодильник"
                         time="17:23, Сегодня"
@@ -79,32 +79,8 @@ class Header extends React.Component {
                         buttons="true"
                     />
                     <Card
-                        size="small"
-                        iconName="icon-everyday"
-                        title="Зарядка завершена"
-                        sensorName="Оконный сенсор"
-                        time="16:22, Сегодня"
-                        description2="Ура! Устройство «Оконный сенсор» снова в строю!"
-                    />
-                    <Card
-                        size="small"
-                        iconName="icon-everyday"
-                        title="Зарядка завершена"
-                        sensorName="Оконный сенсор"
-                        time="16:22, Сегодня"
-                        description2="Ура! Устройство «Оконный сенсор» снова в строю!"
-                    />
-                    <Card
-                        size="small"
-                        iconName="icon-everyday"
-                        title="Зарядка завершена"
-                        sensorName="Оконный сенсор"
-                        time="16:22, Сегодня"
-                        description2="Ура! Устройство «Оконный сенсор» снова в строю!"
-                    />
-                    <Card
                         size="big"
-                        iconName="icon-everyday"
+                        iconName="icon-condition"
                         title="Пылесос застрял"
                         sensorName="Сенсор движения"
                         time="16:17, Сегодня"
@@ -112,7 +88,21 @@ class Header extends React.Component {
                         imageName="card-last-m.png"
                         red="true"
                     />
-
+                    <Card
+                        size="small"
+                        iconName="icon-kettle"
+                        title="Зарядка завершена"
+                        sensorName="Оконный сенсор"
+                        time="16:22, Сегодня"
+                        description2="Ура! Устройство «Оконный сенсор» снова в строю!"
+                    />
+                    <Card
+                        size="small"
+                        iconName="icon-kettle"
+                        title="Вода вскипела"
+                        sensorName="Чайник"
+                        time="16:22, Сегодня"
+                    />
                 </div>
             </div>
         );

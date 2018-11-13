@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a3a709-47d0-4d05-b5c0-8ddb17f5d069" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/album-cover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/card-last-m.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/card-last-s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/card-last-xl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/player-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/player-prev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/player-prev.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/blocks/main/Card/player/player.scss" afterPath="$PROJECT_DIR$/old/blocks/main/Card/player/player.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.jsx" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.scss" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx" afterPath="$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,7 +20,7 @@
       <file leaf-file-name="Card.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="-107">
               <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
               <folding />
             </state>
@@ -43,8 +30,8 @@
       <file leaf-file-name="Main.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            <state relative-caret-position="157">
+              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -55,8 +42,8 @@
       <file leaf-file-name="Card.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="47" column="92" lean-forward="true" selection-start-line="47" selection-start-column="92" selection-end-line="47" selection-end-column="92" />
+            <state relative-caret-position="140">
+              <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -159,6 +146,7 @@
       <find>flexCardCss</find>
       <find>image</find>
       <find>Image</find>
+      <find>шсщт</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Work\Learn\shri\lecture-bem</dir>
@@ -212,8 +200,8 @@
         <option value="$PROJECT_DIR$/old/blocks/main/Card/player/player.scss" />
         <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.scss" />
         <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Player/Player.jsx" />
-        <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx" />
         <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss" />
+        <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx" />
         <option value="$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx" />
       </list>
     </option>
@@ -287,58 +275,7 @@
               <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-              <item name="Nav" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-              <item name="Card" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lecture-bem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-              <item name="Card" type="462c0819:PsiDirectoryNode" />
-              <item name="Player" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lecture-bem" type="b2602c69:ProjectViewProjectNode" />
@@ -346,6 +283,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,12 +340,12 @@
       <workItem from="1541957378768" duration="5237000" />
       <workItem from="1541967002261" duration="2512000" />
       <workItem from="1542045930965" duration="6636000" />
-      <workItem from="1542095967260" duration="9685000" />
+      <workItem from="1542095967260" duration="10078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34108000" />
+    <option name="totallyTimeSpent" value="34501000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -696,28 +634,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="47" column="92" lean-forward="true" selection-start-line="47" selection-start-column="92" selection-end-line="47" selection-end-column="92" />
+        <state relative-caret-position="140">
+          <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Card/Card.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/blocks/desktop/Main/Main.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        <state relative-caret-position="157">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
