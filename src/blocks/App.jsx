@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './desktop/Header/Header';
-import Main from './desktop/Main/Main';
+import Header from './Header/Header';
+import Main from './Main/Main';
 import './common/common.scss';
 import { cn } from '@bem-react/classname';
 
