@@ -5,7 +5,7 @@ import Card from './Card/Card';
 
 const cnMain = cn('Main');
 
-class Header extends React.Component {
+class Main extends React.Component {
     render() {
         return (
             <div className="container">
@@ -109,4 +109,4 @@ class Header extends React.Component {
     }
 }
 
-export default Header;
+export default Main;
